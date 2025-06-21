@@ -1,9 +1,5 @@
-//
-//  Bridge.h
-//  Vertex
-//
-//  Created by Alfie on 24/09/2024.
-//
+// Bridge.h
+// Vertex, 2025
 
 #ifndef Bridge_h
 #define Bridge_h
